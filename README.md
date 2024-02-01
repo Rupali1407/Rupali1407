@@ -1,7 +1,7 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi👋,I'm Rupali Tiwary</h1> 
 <h3 align="center">A passionate frontend developer</h3> 
-<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 - 📫 How to reach me **rupalitiwary14@gmail.com**
 
